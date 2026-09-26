@@ -5,8 +5,8 @@ A Java-based beauty store application developed as a collaborative university pr
 ## 👥 Team Members
 
 | Name | ID |
-| Lamees Bassam Qasem Saleh | 202310833 |
-| Sadeel Youssef Ahmed Shousha |202311478 |
+| Lamees Bassam Qasem Saleh |
+| Sadeel Youssef Ahmed Shousha |
 
 > This project was developed **collaboratively** by both team members.
 
