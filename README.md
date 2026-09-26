@@ -4,7 +4,7 @@ A Java-based beauty store application developed as a collaborative university pr
 
 ## 👥 Team Members
 
-| Name | ID |
+| Name |
 | Lamees Bassam Qasem Saleh |
 | Sadeel Youssef Ahmed Shousha |
 
